@@ -7,9 +7,9 @@ version = "1.0.0"
 category = "Simulation"
 title = "omni.example.khemoo"
 description = "to test the publishment of extensions"
-authors = ["NVIDIA"]
-repository = ""
-keywords = []
+authors = ["example"]
+repository = "https://github.com/Kick-Moon/omni.example.khemoo"
+keywords = ["test", "example"]
 changelog = "docs/CHANGELOG.md"
 readme = "docs/README.md"
 preview_image = "data/preview.png"
@@ -22,4 +22,4 @@ icon = "data/icon.png"
 "omni.isaac.core" = {}
 
 [[python.module]]
-name = "omni_example_khemoo_python"
+name = "omni.example.khemoo"
